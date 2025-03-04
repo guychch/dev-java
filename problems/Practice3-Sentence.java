@@ -5,7 +5,7 @@
 
       Need to put the code in main method to run. you know what to do.
    */
-
+Scanner kb = new Scanner(System.in);
       String sentence = getSentence(kb);
       System.out.print(sentence);
 
