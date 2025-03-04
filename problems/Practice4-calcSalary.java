@@ -5,7 +5,7 @@
 
       You know what to do to put the method in main class to run.
    */
-
+Scanner kb = new Scanner(System.in);
  //create a for loop to calculate salary for few person
       for (int i=1; i<=4; i++)
       {
