@@ -1,3 +1,5 @@
-My java learning journey
+# My java learning journey
 
-Book Website: https://www.buildingjavaprograms.com/
+### Book Website: https://www.buildingjavaprograms.com/
+
+### Start small / Start early.
